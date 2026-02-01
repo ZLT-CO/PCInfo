@@ -19,7 +19,6 @@ This app is built using PyInstaller and is signed with a self-signed certificate
 
 Because of this, some antivirus software (such as Windows SmartScreen or Avast) may incorrectly flag the app as suspicious.
 
-This is a false positive.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  How to Use
