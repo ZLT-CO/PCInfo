@@ -1,6 +1,6 @@
 # PCInfo
 A clean, polished, lightweight app that tells you about your system specifications.
-Windows Compatibility
+Easy to install, download and run exe file. No python or powershelll scripts. Plug and play.
 
 Windows 10 / Windows 11 (64-bit) ONLY
 
