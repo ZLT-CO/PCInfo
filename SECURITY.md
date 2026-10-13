@@ -2,11 +2,11 @@
 
 ## Supported Versions
 
-Version 1.0 is currently being supported. This also suppoorts the latest Windows operating system, Windows 11. It also is compatible with Windows 10.
+Version 2.0 is currently being supported. This also suppoorts the latest Windows operating system, Windows 11. It also is compatible with Windows 10.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.00    |  Yes               |
+| 2.00    |  Yes               |
 |         |                    |
 |         |                    |
 |         |                    |
